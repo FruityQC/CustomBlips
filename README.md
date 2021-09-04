@@ -1,5 +1,5 @@
 # CustomBlips
-FiveM Map Fully Customizable Blips
+FiveM Fully Customizable Map Blips
 
 -Info- To disable a blip add "--" before the blip line
  To add a blip just copy and paste a line and change the info and location if needed
