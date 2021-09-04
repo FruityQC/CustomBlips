@@ -6,6 +6,6 @@ FiveM Fully Customizable Map Blips
 
  DO NO REPOST, DESTROY OR CLAIM MY SCRIPTS
  
- Made By Felix
+ Made By TheYoungDevelopper
 
 # Open an issue or pull request if you have something to change
