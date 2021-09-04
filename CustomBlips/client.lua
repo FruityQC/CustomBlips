@@ -1,5 +1,5 @@
 local blips = {
-    -- Example {title="", colour=, id=, x=, y=, z=},
+    -- {title="", colour=, id=, x=, y=, z=},
 
     {title="Mechanic", colour=5, id=446, x = -347.291, y = -133.370, z = 38.009},
     {title="Pacific Bank", colour=5, id=108, x = 260.130, y = 204.308, z = 109.287},
@@ -25,6 +25,13 @@ local blips = {
     {title="Bennys", colour=1, id=446, x = -205.63, y = -1310.18, z = 31.29},
     {title="Plane Yard", colour=39, id=423, x = 2397.08, y = 3111.14, z = 48.13},
  }
+
+ --[[Info- To disable a blip add "--" before the blip line
+ To add a blip just copy and paste a line and change the info and location if needed
+
+ DO NO REPOST, DESTROY OR CLAIM MY SCRIPTS
+ 
+ Made By Felix]]
       
 Citizen.CreateThread(function()
 
