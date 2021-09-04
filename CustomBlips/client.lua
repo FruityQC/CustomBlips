@@ -31,7 +31,7 @@ local blips = {
 
  DO NO REPOST, DESTROY OR CLAIM MY SCRIPTS
  
- Made By Felix]]
+ Made By TheYoungDevelopper]]
       
 Citizen.CreateThread(function()
 
